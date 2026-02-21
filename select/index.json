@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カンナギ",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2026-02-21T08:44:25.617597Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カンナギ(feat. 鳴花ヒメ・ミコト)",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_カンナギ(feat._鳴花ヒメ・ミコト)_HoneyWorks.txt"
+    }
+  ]
+}
